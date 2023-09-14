@@ -1,0 +1,43 @@
+
+
+The mechanics of proof
+======================
+
+This is a set of lecture notes dealing with how to write careful, rigorous mathematical proofs.
+The lecture notes are paired with code in the computer formalization language
+`Lean <https://leanprover.github.io/about/>`_. Head over to the associated GitHub repository,
+https://github.com/hrmacbeth/math2001, to download this code to your own computer or to open it in
+the cloud on Gitpod.
+
+These lecture notes are aimed at the early university level and have been written for the course
+Math 2001, at Fordham University.  Please reach out to the author,
+`Heather Macbeth <https://faculty.fordham.edu/hmacbeth1/>`_, with comments and corrections.
+
+.. toctree::
+   :maxdepth: 2
+
+   00_Introduction
+
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+
+   01_Proofs_by_Calculation
+   02_Proofs_with_Structure
+   03_Parity_and_Divisibility
+   04_Proofs_with_Structure_II
+   05_Logic
+   06_Induction
+   07_Number_Theory
+   08_Functions
+   09_Sets
+   10_Relations 
+
+**Appendices**
+
+.. toctree::
+   Index_of_Tactics
+   Mainstream_Lean
+
+.. toctree::
+   Homework

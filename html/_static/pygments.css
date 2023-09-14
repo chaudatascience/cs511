@@ -1,0 +1,32 @@
+pre { line-height: 125%; }
+td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
+span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
+.highlight .hll { background-color: #ffffcc }
+.highlight { background: #f8f8f8; }
+.highlight .c { color: #008000; font-style: italic } /* Comment */
+.highlight .k { color: #0000ff; font-weight: bold } /* Keyword */
+.highlight .o { color: #666666 } /* Operator */
+.highlight .ch { color: #008000; font-style: italic } /* Comment.Hashbang */
+.highlight .cm { color: #008000; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #008000; font-style: italic } /* Comment.Preproc */
+.highlight .cpf { color: #008000; font-style: italic } /* Comment.PreprocFile */
+.highlight .c1 { color: #008000; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #008000; font-style: italic } /* Comment.Special */
+.highlight .gr { color: #E40000 } /* Generic.Error */
+.highlight .kc { color: #0000ff; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #0000ff; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #0000ff; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #0000ff; font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { color: #0000ff; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #0000ff; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #036682 } /* Literal.Number */
+.highlight .ow { color: #666666 } /* Operator.Word */
+.highlight .mb { color: #036682 } /* Literal.Number.Bin */
+.highlight .mf { color: #036682 } /* Literal.Number.Float */
+.highlight .mh { color: #036682 } /* Literal.Number.Hex */
+.highlight .mi { color: #036682 } /* Literal.Number.Integer */
+.highlight .mo { color: #036682 } /* Literal.Number.Oct */
+.highlight .sd { color: #008000; font-style: italic } /* Literal.String.Doc */
+.highlight .il { color: #036682 } /* Literal.Number.Integer.Long */
